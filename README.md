@@ -2,6 +2,8 @@
 
 Database Manager is a C# project developed with Visual Studio that allows users to manage and interact with databases using a graphical user interface. This project provides several features including user authentication, user registration, a data dictionary for managing database tables and entities, the ability to add records to a database, and a SQL query generator.
 
+![Manual_002](https://user-images.githubusercontent.com/105819329/230708740-d53e251c-7bcf-4a71-b1e6-13131b38a87d.png)
+
 ## Login
 
 Users can log in to the application with the following credentials:
@@ -41,13 +43,7 @@ This feature allows the user to generate basic SQL queries, including SELECT, CR
 2. Open the solution in Visual Studio.
 3. Build and run the application.
 
-## Contributing
-
-We welcome contributions to the Database Manager project from anyone interested in helping us improve the application. If you're interested in contributing, please check out our [contributing guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-Database Manager is licensed under the [MIT License](LICENSE). You're free to use, modify, and distribute this project as you see fit. We only ask that you include the original license file and credit the original authors.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vNJkHzcGI7Y/0.jpg)](https://youtu.be/vNJkHzcGI7Y)
 
 ## Acknowledgments
 
